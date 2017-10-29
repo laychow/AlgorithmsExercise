@@ -32,7 +32,7 @@ public class BinarySearch1_1_23 {
 //		} else if (key > a[mid]) {
 //			return rank(key, a, mid + 1, hi);
 //		} else {
-//			return mid;
+///			return mid;
 //		}
 //	}
 	public static void main(String[] args) {
