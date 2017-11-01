@@ -41,7 +41,6 @@ public class Ex1_2_9 {
 			System.out.println(c.tally());
 		}
 		
-		
 	}
 
 }
